@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: primeira aplicação
+# Ruby on Rails Tutorial: first application
 
-Este é o primeiro pedido de
-[* Ruby on Rails Tutorial *] (http://railstutorial.org/)
-por [Michael Hartl] (http://michaelhartl.com/).
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
